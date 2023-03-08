@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Software+Developer;All+Around+Great+Guy)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Experienced+in+Hardware+and+Software;Current+Student+At+SIUE;Always+Open+for+a+Challenge&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 
 # Biography
 
