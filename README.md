@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Software+Developer;All+Around+Great+Guy)](https://git.io/typing-svg)
+
 # Biography
 
 Hi, I am a current Computer Engineering student at SIUE. I am from Columbia, Illinois and have worked on technology my entire life. I have been an incredibly hard worker since I was 14 and held my first job as a lawn mower for Sonnenberg's Landscaping and have worked many other jobs since then.
