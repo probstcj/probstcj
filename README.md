@@ -18,6 +18,29 @@ I have worked on many personal projects during my time at school as well as in m
 - Currently, this technology requires two incisions and is invasive. With this new system, it is possible to create a single incision for both the instruments and camera, as well as being able to pan with a spring system in order to see around the body.
 - This project has its difficulties such as having to keep everything in such a small package.
 - I have also learned the in's and out's of [OpenCV](https://opencv.org/) as this project requires being able to focus in on a certain object and possibly have the camera follow the object around with the spring assisted system.
+- This project also involved PCB design, as the final product would need some kind of PCB that can be attatched to the Raspberry Pi (the mainboard on the system) and the motors with drivers.
+
+## Automated Pet Feeder
+
+- This project is currently under development in the [MicrocontrollersLab](https://github.com/probstcj/MicrocontrollersLab/tree/main/Final%20Project) repository.
+- This is the final project of our Microcontrollers Lab, which we wanted to have a large project for.
+- Features:
+  - Uses PSoC4 device
+  - Features a 4x20LCD (through an I2C interface)
+  - Able to keep and store time
+  - Can have up to 10 feed times
+  - Auto-backup for accidental power off
+- This required a large amount of 3D printing, 3D modeling, as well as PCB design to connect all the components of the machine together.
+
+## Virtual Reality Gloves w/ Haptics
+
+- This is a well known project done by DIY enthusiasts.
+- The public repository is given by [LucasVR](https://github.com/LucidVR/lucidgloves)
+- This is a basic project that includes several motors, microcontrollers, and potentiometers.
+
+## ProbieBot
+
+
 
 ## Voice Recognition/Voice Recreation Software
 
